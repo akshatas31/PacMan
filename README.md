@@ -1,1 +1,2 @@
 # PacMan
+I recreated the classic arcade game of Pacman using Java's DrawingPanel Class. In order to play, simply clone the repository and run the project on your IDE or text editor. This adaptation contains several of the original game's key components such as a maze, ghosts, score, and of course the main character: Pacman. One particular difference in the version is the fact that the game pauses (the ghosts stop moving) when the user isn't actively pressing the arrow keys. This creates a more relax vibe to the game.
